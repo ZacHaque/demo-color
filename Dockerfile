@@ -1,5 +1,5 @@
 FROM nginx
-COPY index.html /usr/share/nginx/html
+COPY red.html /usr/share/nginx/html
 
 # FROM httpd:2.4
  
